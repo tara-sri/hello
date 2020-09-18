@@ -1,5 +1,6 @@
 ---
 title: "pset0.R"
+date: 09/18/2020
 output: html_document
 ---
 
